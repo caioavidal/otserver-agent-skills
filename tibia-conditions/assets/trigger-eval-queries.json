@@ -1,0 +1,16 @@
+[
+  { "query": "Explain how poison and burning conditions should work in Tibia and give acceptance criteria.", "should_trigger": true },
+  { "query": "What should happen when a player is feared or rooted?", "should_trigger": true },
+  { "query": "Generate tests for magic shield, haste, and slowed conditions.", "should_trigger": true },
+  { "query": "Review condition refresh and stacking rules for a Tibia server.", "should_trigger": true },
+  { "query": "Create a feature spec for logout block and protection zone block icons.", "should_trigger": true },
+  { "query": "How do taints and special condition icons behave on the client?", "should_trigger": true },
+  { "query": "Does a drunk condition end on its own or need a cure?", "should_trigger": true },
+  { "query": "Write scenarios for condition cleanup on login and death.", "should_trigger": true },
+  { "query": "Implement a conditional branch in my JavaScript code.", "should_trigger": false },
+  { "query": "Explain if statements in Python.", "should_trigger": false },
+  { "query": "Write a database migration for a user status column.", "should_trigger": false },
+  { "query": "Help me debug a CSS animation.", "should_trigger": false },
+  { "query": "Create a unit test for a random number generator.", "should_trigger": false },
+  { "query": "What is the best condition in a SQL where clause?", "should_trigger": false }
+]
