@@ -1,4 +1,4 @@
-# OT Servers Agent Skills
+# AI Generated OT Servers Agent Skills
 
 A collection of reusable agent skills for Open Tibia servers (otservers), designed to work with any AI coding agent.
 
