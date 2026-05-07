@@ -10,6 +10,7 @@ Skills are organized by domain. Each skill is a self-contained unit that an agen
 |-----------|-------------|
 | `tibia-house-systems/` | Player-facing Tibia house rules, behavior validation, feature specification, and test scenario guidance. |
 | `tibia-conditions/` | Tibia condition, status effect, and icon behavior guidance. |
+| `tibia-party-system/` | Tibia party invites, leadership, shared experience, loot access, and party spell guidance. |
 | *(more coming)* | |
 
 ## Usage

@@ -1,0 +1,16 @@
+[
+  { "query": "Define how Tibia party invites and leadership transfer should work.", "should_trigger": true },
+  { "query": "Generate tests for shared experience when a party member is too far away.", "should_trigger": true },
+  { "query": "Create a feature spec for party spells that buff nearby members.", "should_trigger": true },
+  { "query": "Review whether a player can join more than one Tibia party.", "should_trigger": true },
+  { "query": "What should happen when the party leader logs out?", "should_trigger": true },
+  { "query": "Explain party loot access for a corpse killed by a party member.", "should_trigger": true },
+  { "query": "Write scenarios for party channel, invites, and disbanding.", "should_trigger": true },
+  { "query": "How should shared experience turn off and on again?", "should_trigger": true },
+  { "query": "Plan a birthday party for my sister.", "should_trigger": false },
+  { "query": "Write a Python function called party() that splits a list.", "should_trigger": false },
+  { "query": "Draft a conference party invitation email.", "should_trigger": false },
+  { "query": "Help me set a budget for our holiday party.", "should_trigger": false },
+  { "query": "Create a generic multiplayer game party system from scratch.", "should_trigger": false },
+  { "query": "Explain how guild ranks work in chat moderation.", "should_trigger": false }
+]
