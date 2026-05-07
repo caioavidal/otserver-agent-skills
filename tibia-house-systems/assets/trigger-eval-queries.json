@@ -1,0 +1,58 @@
+[
+  {
+    "query": "Define how aleta grav should work for house doors and write acceptance criteria.",
+    "should_trigger": true
+  },
+  {
+    "query": "Generate tests for a guest who is invited to a house but does not have front door access.",
+    "should_trigger": true
+  },
+  {
+    "query": "Review this house rent eviction behavior against Tibia rules.",
+    "should_trigger": true
+  },
+  {
+    "query": "I need a player-facing spec for transferring a Tibia house to another character.",
+    "should_trigger": true
+  },
+  {
+    "query": "What edge cases should I test for sub-owners and guest lists?",
+    "should_trigger": true
+  },
+  {
+    "query": "Does an invited player get to open closed doors in a Tibia house?",
+    "should_trigger": true
+  },
+  {
+    "query": "Create scenarios for wildcard invitations and exclusions in house access lists.",
+    "should_trigger": true
+  },
+  {
+    "query": "Explain how beds recover mana while offline in houses.",
+    "should_trigger": true
+  },
+  {
+    "query": "Implement a generic door animation system for a dungeon.",
+    "should_trigger": false
+  },
+  {
+    "query": "Write a pathfinding test for monsters entering buildings.",
+    "should_trigger": false
+  },
+  {
+    "query": "Explain how guild ranks work for chat permissions.",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a rent payment form for a real estate web app.",
+    "should_trigger": false
+  },
+  {
+    "query": "Add a furniture crafting recipe for wooden chairs.",
+    "should_trigger": false
+  },
+  {
+    "query": "Review combat protection zone behavior outside houses.",
+    "should_trigger": false
+  }
+]
